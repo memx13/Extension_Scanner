@@ -33,4 +33,3 @@ Siber güvenlik uzmanları ve zafiyet avcıları (bug hunters) için geliştiril
 ## Yasal Uyarı
 Bu araç yalnızca eğitim amaçlı ve izin alınmış penetrasyon testleri için geliştirilmiştir. Lütfen sorumlu bir şekilde kullanın.
 
-**@sibertim için geliştirilmiştir.**
